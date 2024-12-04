@@ -84,6 +84,7 @@
     {"id":{"name":"spr_shelf","path":"sprites/spr_shelf/spr_shelf.yy",},},
     {"id":{"name":"spr_slot_empty","path":"sprites/spr_slot_empty/spr_slot_empty.yy",},},
     {"id":{"name":"spr_spacebar","path":"sprites/spr_spacebar/spr_spacebar.yy",},},
+    {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
