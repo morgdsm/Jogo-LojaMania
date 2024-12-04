@@ -52,6 +52,7 @@
     {"id":{"name":"obj_shelf","path":"objects/obj_shelf/obj_shelf.yy",},},
     {"id":{"name":"obj_shooping_list","path":"objects/obj_shooping_list/obj_shooping_list.yy",},},
     {"id":{"name":"obj_spacebar","path":"objects/obj_spacebar/obj_spacebar.yy",},},
+    {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"oButton_2","path":"objects/oButton_2/oButton_2.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
     {"id":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},},
